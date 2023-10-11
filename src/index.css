@@ -15,7 +15,8 @@ body {
   font-size: 2rem;
   height: 100vh;
   color: #222;
-  background-color: #eabfb9;
+  background-image: url(desktop-1920x1080.jpg);
+
   display: flex;
   align-items: center;
   justify-content: center;
@@ -49,7 +50,7 @@ input {
   font-family: inherit;
   color: inherit;
   font-size: 2rem;
-  background-color: #f0d2ce;
+  background-color: #ffc4bc;
   padding: 1.6rem 3.2rem;
   border: none;
   width: 32rem;
